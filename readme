@@ -1,0 +1,7 @@
+The repo provides links of the codes for the examples used in the paper.
+
+Section 2.2 Data analysis related to reliability Analysis of GPU in Supercomputers: Please see the suplementary file of the paper using the link: https://www.tandfonline.com/doi/suppl/10.1080/00401706.2025.2475783?scroll=top
+Section 2.3 Sensor Data with Vairble Selection: Please see the GitHub repo: https://github.com/jiem3/MultiFuncClustering
+Section 4.5.2 Out-of-distribution Detection: Please see the GitHub repo: https://github.com/tgh1122334/FrogLegImages.
+Section 4.5.3 Reliability Analysis of Autonomous Vehicles: Please see the supplementary matrial on this page: https://academic.oup.com/jrsssc/article/71/4/987/7072957#supplementary-data
+Section 5.1 Analysis of EL image classification: Please see the GitHub repo: https://github.com/yili-hong/ELImageClassifictionMLComparison
